@@ -20,23 +20,19 @@ uro
 Gxss
 dalfox
 Installation
-Clone the repository:
 
-bash
-Copy code
+Clone the repository:
 git clone https://github.com/youssefhussein10/0xs7s.git
 cd 0xs7s
-Make the script executable:
 
-bash
-Copy code
+Make the script executable:
 chmod +x xss_framework.sh
 Usage
-Run the script and input your target domain:
 
-bash
-Copy code
+Run the script and input your target domain:
 ./xss_framework.sh
+
+
 Output
 Subdomains: subdomains.txt
 Live hosts: live_subdomains.txt
