@@ -20,3 +20,11 @@ uro
 Gxss
 dalfox
 
+
+
+Installation
+Clone the repository:
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+Make the script executable:
+chmod +x xss_framework.sh
