@@ -24,7 +24,7 @@ dalfox
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/youssefhussein10/0xs7s.git
 cd your-repository
 Make the script executable:
 chmod +x xss_framework.sh
